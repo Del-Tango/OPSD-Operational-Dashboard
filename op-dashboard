@@ -1,0 +1,51 @@
+#!/bin/bash
+#
+# Regards, the Alveare Solutions society.
+#
+declare -A OD_DEFAULT
+declare -A OD_LIB
+declare -A OD_SOURCE
+declare -A OD_ADDONS
+declare -A OD_CARGO
+
+# [ NOTE ]: Absolute directory path the current file is in.
+OD_DIRECTORY="$(
+    cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd
+)"
+CONF_FILE_PATH="$OD_DIRECTORY/conf/op-dashboard.conf"
+
+if [ ! -f "$CONF_FILE_PATH" ]; then
+    echo "[ WARNING ]: Config file ($CONF_FILE_PATH) not found."
+    return 1
+else
+    source "$CONF_FILE_PATH"
+fi
+
+for script in ${!OD_SOURCE[@]}; do
+    source ${OD_SOURCE[$script]}
+    if [ $? -ne 0 ]; then
+        echo "[ NOK ]: Something went wrong."\
+            "Could not load ($script) script."
+    else
+        echo "[ OK ]: Successfully loaded ($script) script."
+    fi
+done
+
+for library in ${!OD_LIB[@]}; do
+    source ${OD_LIB[$library]}
+    if [ $? -ne 0 ]; then
+        echo "[ NOK ]: Something went wrong."\
+            "Could not load ($library) library."
+    else
+        echo "[ OK ]: Successfully loaded ($library) library."
+    fi
+done
+
+# MISCELLANEOUS
+
+function init_op_dashboard () {
+    op_dashboard_project_setup
+    init_menu 'MainController'
+}
+
+init_op_dashboard
