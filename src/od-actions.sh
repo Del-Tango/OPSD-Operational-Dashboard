@@ -13,8 +13,16 @@ function action_addon_module_panel () {
         if [ $? -ne 0 ]; then
             return 0
         fi
+        check_item_in_set "$ADDON" ${!OD_ADDONS_ARGS[@]}
+        if [ $? -ne 0 ]; then
+            local ARGS=''
+        else
+            local ARGS="${OD_ADDONS_ARGS[$ADDON]}"
+        fi
         trap "echo; done_msg 'Terminating module ($ADDON)'" INT
-        ${OD_ADDONS[$ADDON]}
+        cd `dirname ${OD_ADDONS[$ADDON]}` &> /dev/null
+        ${OD_ADDONS[$ADDON]} $ARGS
+        cd - &> /dev/null
         EXIT_CODE=$?
         trap - INT
     done

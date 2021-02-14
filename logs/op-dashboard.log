@@ -1,0 +1,1285 @@
+[35mSun 14 Feb 23:39:16 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-file - /home/SMx093pk01/OpDashboard/logs/op-dashboard.log[m).
+[35mSun 14 Feb 23:39:16 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlib-dir - /home/SMx093pk01/OpDashboard/lib[m).
+[35mSun 14 Feb 23:39:16 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mdox-dir - /home/SMx093pk01/OpDashboard/dox[m).
+[35mSun 14 Feb 23:39:16 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-dir - /home/SMx093pk01/OpDashboard/conf[m).
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32msrc-dir - /home/SMx093pk01/OpDashboard/src[m).
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-lines - 100[m).
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-file - /home/SMx093pk01/OpDashboard/conf/op-dashboard.conf[m).
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-dir - /home/SMx093pk01/OpDashboard/logs[m).
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32maddons-dir - /home/SMx093pk01/OpDashboard/addons[m).
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [34mDONE[m ]: Successfully loaded [34mOpDashboard[m default settings.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m logging levels.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mMainController[m...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m1[m) menu controllers: [33mdefault[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mMainController[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m options...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m extented banner function [35mdisplay_op_dashboard_banner[m...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_banner[m is defined.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mLogViewer[m...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mLogViewer[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Setting [36mLogViewer[m options...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mControlPanel[m...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mControlPanel[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m options...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m extented banner function [35mdisplay_op_dashboard_settings[m...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_settings[m is defined.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller construction complete.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32msed[m is set to be installed using the APT package manager.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [31mNOK[m ]: Dependency [31msed[m is already set to be installed using the APT package manager.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32mawk[m is set to be installed using the APT package manager.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [31mNOK[m ]: Dependency [31mawk[m is already set to be installed using the APT package manager.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [34mDONE[m ]: ([32m1[m) [34mOpDashboard[m dependencies staged for installation using the APT package manager. ([31m2[m) failures.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mAddon-Modules[m to action [36maction_addon_module_panel[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mAddon-Modules[m exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_addon_module_panel[m is defined.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) option keys: [33mdefault-Back default-Do-Nothing[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [32mOK[m ]: Menu option [32mAddon-Modules[m bind to [32maction_addon_module_panel[m successful.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mLog-Viewer[m to controller [36mLogViewer[m...
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mLog-Viewer[m exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mLog-Viewer[m exists.
+[35mSun 14 Feb 23:39:17 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mLogViewer[m exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mLog-Viewer[m is [32minit_menu LogViewer[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [32mOK[m ]: Menu option [32mLog-Viewer[m bind to [32mLogViewer[m successful.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mControl-Panel[m to controller [36mControlPanel[m...
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mControl-Panel[m exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mControl-Panel[m exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mControlPanel[m exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Control-Panel[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mControl-Panel[m is [32minit_menu ControlPanel[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [32mOK[m ]: Menu option [32mControl-Panel[m bind to [32mControlPanel[m successful.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mBack[m to function [35maction_back[m...
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mBack[m exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m5[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [34mDONE[m ]: [36mMainController[m controller option binding complete.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Tail[m to function [35maction_display_log_tail[m...
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Tail[m exists.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_tail[m is defined.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m6[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Tail[m bind to [32maction_log_view_tail[m successful.
+[35mSun 14 Feb 23:39:18 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Head[m to function [35maction_display_log_head[m...
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Head[m exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_head[m is defined.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m7[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Head[m bind to [32maction_log_view_head[m successful.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-More[m to function [35maction_display_log_more[m...
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-More[m exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_more[m is defined.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m8[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-More[m bind to [32maction_log_view_more[m successful.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mClear-Log[m to function [35maction_clear_log_file[m...
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mClear-Log[m exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_clear_log_file[m is defined.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m9[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [32mOK[m ]: Menu option [32mClear-Log[m bind to [32maction_clear_log_file[m successful.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mBack[m to function [35maction_back[m...
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mBack[m exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m10[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [34mDONE[m ]: [36mLogViewer[m controller option binding complete.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Banner[m to function [35maction_set_banner_script[m...
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Banner[m exists.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_banner_script[m is defined.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m11[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer[m.
+[35mSun 14 Feb 23:39:19 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Banner[m bind to [32maction_set_banner_script[m successful.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-File[m to function [35maction_set_log_file[m...
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-File[m exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_file[m is defined.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m12[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-File[m bind to [32maction_set_log_file[m successful.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-Lines[m to function [35maction_set_log_lines[m...
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-Lines[m exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_lines[m is defined.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m13[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-Lines[m bind to [32maction_set_log_lines[m successful.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mInstall-Dependencies[m to function [35maction_install_dependencies[m...
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mInstall-Dependencies[m exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_install_dependencies[m is defined.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m14[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [32mOK[m ]: Menu option [32mInstall-Dependencies[m bind to [32maction_install_dependencies[m successful.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mBack[m to function [35maction_back[m...
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mBack[m exists.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m15[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log ControlPanel-Install-Dependencies LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [34mDONE[m ]: [36mControlPanel[m controller option binding complete.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller setup complete.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:39:20 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mSun 14 Feb 23:39:21 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mControl-Panel[m.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Menu controller jumper [33mMainController-jump-Control-Panel[m triggered.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-jump-Control-Panel[m ([37m0[m).
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [34mOpDashboard[m ]: Control Panel
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mControlPanel[m has extended banner set.
+[35mSun 14 Feb 23:39:22 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mBack[m.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mControlPanel-Back[m triggered.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mControlPanel-Back[m ([37m0[m).
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:39:26 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mSun 14 Feb 23:39:27 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mSun 14 Feb 23:39:32 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:39:32 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mSun 14 Feb 23:39:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:39:32 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:39:32 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mSun 14 Feb 23:39:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mSun 14 Feb 23:39:34 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mSun 14 Feb 23:39:38 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:39:38 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mSun 14 Feb 23:39:38 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:39:38 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:39:38 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mSun 14 Feb 23:39:38 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mControl-Panel[m.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Menu controller jumper [33mMainController-jump-Control-Panel[m triggered.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-jump-Control-Panel[m ([37m0[m).
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [34mOpDashboard[m ]: Control Panel
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mControlPanel[m has extended banner set.
+[35mSun 14 Feb 23:39:40 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mBack[m.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mControlPanel-Back[m triggered.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mControlPanel-Back[m ([37m0[m).
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:39:43 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mSun 14 Feb 23:39:44 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:39:45 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mSun 14 Feb 23:39:45 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:45 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:39:46 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:39:46 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:39:46 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:39:46 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mSun 14 Feb 23:39:46 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mSun 14 Feb 23:39:46 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mSun 14 Feb 23:39:51 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mSun 14 Feb 23:40:19 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mSun 14 Feb 23:40:19 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mSun 14 Feb 23:40:19 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mSun 14 Feb 23:40:19 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mSun 14 Feb 23:40:19 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mSun 14 Feb 23:40:19 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mSun 14 Feb 23:40:19 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mSun 14 Feb 23:40:20 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:07:34 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-file - /home/SMx093pk01/OpDashboard/logs/op-dashboard.log[m).
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlib-dir - /home/SMx093pk01/OpDashboard/lib[m).
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mdox-dir - /home/SMx093pk01/OpDashboard/dox[m).
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-dir - /home/SMx093pk01/OpDashboard/conf[m).
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32msrc-dir - /home/SMx093pk01/OpDashboard/src[m).
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-lines - 100[m).
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-file - /home/SMx093pk01/OpDashboard/conf/op-dashboard.conf[m).
+[35mMon 15 Feb 00:11:31 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-dir - /home/SMx093pk01/OpDashboard/logs[m).
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32maddons-dir - /home/SMx093pk01/OpDashboard/addons[m).
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [34mDONE[m ]: Successfully loaded [34mOpDashboard[m default settings.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m logging levels.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mMainController[m...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m1[m) menu controllers: [33mdefault[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mMainController[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m options...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m extented banner function [35mdisplay_op_dashboard_banner[m...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_banner[m is defined.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mLogViewer[m...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mLogViewer[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Setting [36mLogViewer[m options...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mControlPanel[m...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mControlPanel[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m options...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m extented banner function [35mdisplay_op_dashboard_settings[m...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_settings[m is defined.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller construction complete.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32msed[m is set to be installed using the APT package manager.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [31mNOK[m ]: Dependency [31msed[m is already set to be installed using the APT package manager.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32mawk[m is set to be installed using the APT package manager.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [31mNOK[m ]: Dependency [31mawk[m is already set to be installed using the APT package manager.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [34mDONE[m ]: ([32m1[m) [34mOpDashboard[m dependencies staged for installation using the APT package manager. ([31m2[m) failures.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mAddon-Modules[m to action [36maction_addon_module_panel[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mAddon-Modules[m exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_addon_module_panel[m is defined.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) option keys: [33mdefault-Back default-Do-Nothing[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [32mOK[m ]: Menu option [32mAddon-Modules[m bind to [32maction_addon_module_panel[m successful.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mLog-Viewer[m to controller [36mLogViewer[m...
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mLogViewer[m exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mLog-Viewer[m is [32minit_menu LogViewer[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [32mOK[m ]: Menu option [32mLog-Viewer[m bind to [32mLogViewer[m successful.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mControl-Panel[m to controller [36mControlPanel[m...
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mControlPanel[m exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Control-Panel[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mControl-Panel[m is [32minit_menu ControlPanel[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [32mOK[m ]: Menu option [32mControl-Panel[m bind to [32mControlPanel[m successful.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m5[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [34mDONE[m ]: [36mMainController[m controller option binding complete.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Tail[m to function [35maction_display_log_tail[m...
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Tail[m exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_tail[m is defined.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m6[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Tail[m bind to [32maction_log_view_tail[m successful.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Head[m to function [35maction_display_log_head[m...
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:11:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Head[m exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_head[m is defined.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m7[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Head[m bind to [32maction_log_view_head[m successful.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-More[m to function [35maction_display_log_more[m...
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-More[m exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_more[m is defined.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m8[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-More[m bind to [32maction_log_view_more[m successful.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mClear-Log[m to function [35maction_clear_log_file[m...
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mClear-Log[m exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_clear_log_file[m is defined.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m9[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [32mOK[m ]: Menu option [32mClear-Log[m bind to [32maction_clear_log_file[m successful.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m10[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [34mDONE[m ]: [36mLogViewer[m controller option binding complete.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Banner[m to function [35maction_set_banner_script[m...
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Banner[m exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_banner_script[m is defined.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m11[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Banner[m bind to [32maction_set_banner_script[m successful.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-File[m to function [35maction_set_log_file[m...
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-File[m exists.
+[35mMon 15 Feb 00:11:34 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_file[m is defined.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m12[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-File[m bind to [32maction_set_log_file[m successful.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-Lines[m to function [35maction_set_log_lines[m...
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-Lines[m exists.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_lines[m is defined.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m13[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-Lines[m bind to [32maction_set_log_lines[m successful.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mInstall-Dependencies[m to function [35maction_install_dependencies[m...
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mInstall-Dependencies[m exists.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_install_dependencies[m is defined.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m14[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [32mOK[m ]: Menu option [32mInstall-Dependencies[m bind to [32maction_install_dependencies[m successful.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m15[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log ControlPanel-Install-Dependencies LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [34mDONE[m ]: [36mControlPanel[m controller option binding complete.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller setup complete.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mMon 15 Feb 00:11:35 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mMon 15 Feb 00:11:36 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mMon 15 Feb 00:11:37 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:11:39 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-file - /home/SMx093pk01/OpDashboard/logs/op-dashboard.log[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlib-dir - /home/SMx093pk01/OpDashboard/lib[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mdox-dir - /home/SMx093pk01/OpDashboard/dox[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-dir - /home/SMx093pk01/OpDashboard/conf[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32msrc-dir - /home/SMx093pk01/OpDashboard/src[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-lines - 100[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-file - /home/SMx093pk01/OpDashboard/conf/op-dashboard.conf[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-dir - /home/SMx093pk01/OpDashboard/logs[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32maddons-dir - /home/SMx093pk01/OpDashboard/addons[m).
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [34mDONE[m ]: Successfully loaded [34mOpDashboard[m default settings.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m logging levels.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mMainController[m...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m1[m) menu controllers: [33mdefault[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault[m
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mMainController[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m options...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m extented banner function [35mdisplay_op_dashboard_banner[m...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_banner[m is defined.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mLogViewer[m...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mLogViewer[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Setting [36mLogViewer[m options...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mControlPanel[m...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mControlPanel[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m options...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m extented banner function [35mdisplay_op_dashboard_settings[m...
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_settings[m is defined.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller construction complete.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32msed[m is set to be installed using the APT package manager.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [31mNOK[m ]: Dependency [31msed[m is already set to be installed using the APT package manager.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32mawk[m is set to be installed using the APT package manager.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [31mNOK[m ]: Dependency [31mawk[m is already set to be installed using the APT package manager.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [34mDONE[m ]: ([32m1[m) [34mOpDashboard[m dependencies staged for installation using the APT package manager. ([31m2[m) failures.
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mAddon-Modules[m to action [36maction_addon_module_panel[m
+[35mMon 15 Feb 00:12:44 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mAddon-Modules[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_addon_module_panel[m is defined.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) option keys: [33mdefault-Back default-Do-Nothing[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [32mOK[m ]: Menu option [32mAddon-Modules[m bind to [32maction_addon_module_panel[m successful.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mLog-Viewer[m to controller [36mLogViewer[m...
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mLogViewer[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mLog-Viewer[m is [32minit_menu LogViewer[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [32mOK[m ]: Menu option [32mLog-Viewer[m bind to [32mLogViewer[m successful.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mControl-Panel[m to controller [36mControlPanel[m...
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mControlPanel[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Control-Panel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mControl-Panel[m is [32minit_menu ControlPanel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [32mOK[m ]: Menu option [32mControl-Panel[m bind to [32mControlPanel[m successful.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:12:45 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m5[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [34mDONE[m ]: [36mMainController[m controller option binding complete.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Tail[m to function [35maction_display_log_tail[m...
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Tail[m exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_tail[m is defined.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m6[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Tail[m bind to [32maction_log_view_tail[m successful.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Head[m to function [35maction_display_log_head[m...
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Head[m exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_head[m is defined.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m7[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Head[m bind to [32maction_log_view_head[m successful.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-More[m to function [35maction_display_log_more[m...
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-More[m exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_more[m is defined.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m8[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-More[m bind to [32maction_log_view_more[m successful.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mClear-Log[m to function [35maction_clear_log_file[m...
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mClear-Log[m exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_clear_log_file[m is defined.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m9[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [32mOK[m ]: Menu option [32mClear-Log[m bind to [32maction_clear_log_file[m successful.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m10[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:46 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [34mDONE[m ]: [36mLogViewer[m controller option binding complete.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Banner[m to function [35maction_set_banner_script[m...
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Banner[m exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_banner_script[m is defined.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m11[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Banner[m bind to [32maction_set_banner_script[m successful.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-File[m to function [35maction_set_log_file[m...
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-File[m exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_file[m is defined.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m12[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-File[m bind to [32maction_set_log_file[m successful.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-Lines[m to function [35maction_set_log_lines[m...
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-Lines[m exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_lines[m is defined.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m13[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-Lines[m bind to [32maction_set_log_lines[m successful.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mInstall-Dependencies[m to function [35maction_install_dependencies[m...
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mInstall-Dependencies[m exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_install_dependencies[m is defined.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m14[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [32mOK[m ]: Menu option [32mInstall-Dependencies[m bind to [32maction_install_dependencies[m successful.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m15[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log ControlPanel-Install-Dependencies LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:12:47 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [34mDONE[m ]: [36mControlPanel[m controller option binding complete.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller setup complete.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mMon 15 Feb 00:12:48 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mMon 15 Feb 00:12:49 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:12:51 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:13:02 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:13:10 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-file - /home/SMx093pk01/OpDashboard/logs/op-dashboard.log[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlib-dir - /home/SMx093pk01/OpDashboard/lib[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mdox-dir - /home/SMx093pk01/OpDashboard/dox[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-dir - /home/SMx093pk01/OpDashboard/conf[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32msrc-dir - /home/SMx093pk01/OpDashboard/src[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-lines - 100[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-file - /home/SMx093pk01/OpDashboard/conf/op-dashboard.conf[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-dir - /home/SMx093pk01/OpDashboard/logs[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32maddons-dir - /home/SMx093pk01/OpDashboard/addons[m).
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [34mDONE[m ]: Successfully loaded [34mOpDashboard[m default settings.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m logging levels.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mMainController[m...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m1[m) menu controllers: [33mdefault[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault[m
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mMainController[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m options...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m extented banner function [35mdisplay_op_dashboard_banner[m...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_banner[m is defined.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mLogViewer[m...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mLogViewer[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Setting [36mLogViewer[m options...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mControlPanel[m...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mControlPanel[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m options...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m extented banner function [35mdisplay_op_dashboard_settings[m...
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_settings[m is defined.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller construction complete.
+[35mMon 15 Feb 00:20:29 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32msed[m is set to be installed using the APT package manager.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [31mNOK[m ]: Dependency [31msed[m is already set to be installed using the APT package manager.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Dependency [32mawk[m is set to be installed using the APT package manager.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [31mNOK[m ]: Dependency [31mawk[m is already set to be installed using the APT package manager.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [34mDONE[m ]: ([32m1[m) [34mOpDashboard[m dependencies staged for installation using the APT package manager. ([31m2[m) failures.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mAddon-Modules[m to action [36maction_addon_module_panel[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mAddon-Modules[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_addon_module_panel[m is defined.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) option keys: [33mdefault-Back default-Do-Nothing[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [32mOK[m ]: Menu option [32mAddon-Modules[m bind to [32maction_addon_module_panel[m successful.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mLog-Viewer[m to controller [36mLogViewer[m...
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mLogViewer[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mLog-Viewer[m is [32minit_menu LogViewer[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [32mOK[m ]: Menu option [32mLog-Viewer[m bind to [32mLogViewer[m successful.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mControl-Panel[m to controller [36mControlPanel[m...
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mControlPanel[m exists.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Control-Panel[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mControl-Panel[m is [32minit_menu ControlPanel[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [32mOK[m ]: Menu option [32mControl-Panel[m bind to [32mControlPanel[m successful.
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:20:30 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m5[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [34mDONE[m ]: [36mMainController[m controller option binding complete.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Tail[m to function [35maction_display_log_tail[m...
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Tail[m exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_tail[m is defined.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m6[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Tail[m bind to [32maction_log_view_tail[m successful.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Head[m to function [35maction_display_log_head[m...
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Head[m exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_head[m is defined.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m7[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Head[m bind to [32maction_log_view_head[m successful.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-More[m to function [35maction_display_log_more[m...
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-More[m exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_more[m is defined.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m8[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-More[m bind to [32maction_log_view_more[m successful.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mClear-Log[m to function [35maction_clear_log_file[m...
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mClear-Log[m exists.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_clear_log_file[m is defined.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m9[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [32mOK[m ]: Menu option [32mClear-Log[m bind to [32maction_clear_log_file[m successful.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:31 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m10[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [34mDONE[m ]: [36mLogViewer[m controller option binding complete.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Banner[m to function [35maction_set_banner_script[m...
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Banner[m exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_banner_script[m is defined.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m11[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Banner[m bind to [32maction_set_banner_script[m successful.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-File[m to function [35maction_set_log_file[m...
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-File[m exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_file[m is defined.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m12[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-File[m bind to [32maction_set_log_file[m successful.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-Lines[m to function [35maction_set_log_lines[m...
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-Lines[m exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_lines[m is defined.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m13[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-Lines[m bind to [32maction_set_log_lines[m successful.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mInstall-Dependencies[m to function [35maction_install_dependencies[m...
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mInstall-Dependencies[m exists.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_install_dependencies[m is defined.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m14[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [32mOK[m ]: Menu option [32mInstall-Dependencies[m bind to [32maction_install_dependencies[m successful.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:20:32 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m15[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log ControlPanel-Install-Dependencies LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [34mDONE[m ]: [36mControlPanel[m controller option binding complete.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller setup complete.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mMon 15 Feb 00:20:33 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mMon 15 Feb 00:20:40 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:20:43 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:20:47 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:20:53 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mMon 15 Feb 00:20:53 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mMon 15 Feb 00:20:53 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mMon 15 Feb 00:20:53 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mMon 15 Feb 00:20:53 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mMon 15 Feb 00:20:53 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mMon 15 Feb 00:21:04 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:21:05 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:21:30 EET 2021[m - [ [34mDONE[m ]: Terminating module (puzzle-maker)
+[35mMon 15 Feb 00:21:30 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-file - /home/SMx093pk01/OpDashboard/logs/op-dashboard.log[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlib-dir - /home/SMx093pk01/OpDashboard/lib[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mdox-dir - /home/SMx093pk01/OpDashboard/dox[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-dir - /home/SMx093pk01/OpDashboard/conf[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32msrc-dir - /home/SMx093pk01/OpDashboard/src[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-lines - 100[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mconf-file - /home/SMx093pk01/OpDashboard/conf/op-dashboard.conf[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32mlog-dir - /home/SMx093pk01/OpDashboard/logs[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m default setting ([32maddons-dir - /home/SMx093pk01/OpDashboard/addons[m).
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [34mDONE[m ]: Successfully loaded [34mOpDashboard[m default settings.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully loaded [34mOpDashboard[m logging levels.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mMainController[m...
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m1[m) menu controllers: [33mdefault[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault[m
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mMainController[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m options...
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [33mINFO[m ]: Setting [36mMainController[m extented banner function [35mdisplay_op_dashboard_banner[m...
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_banner[m is defined.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mLogViewer[m...
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) menu controllers: [33mdefault MainController[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController[m
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mLogViewer[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [33mINFO[m ]: Setting [36mLogViewer[m options...
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [33mINFO[m ]: Creating menu controller [33mControlPanel[m...
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) menu controllers: [33mdefault MainController LogViewer[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer[m
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [32mOK[m ]: Successfully added new menu controller [32mControlPanel[m.
+[35mMon 15 Feb 00:30:38 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m options...
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [33mINFO[m ]: Setting [36mControlPanel[m extented banner function [35mdisplay_op_dashboard_settings[m...
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Function [32mdisplay_op_dashboard_settings[m is defined.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller construction complete.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mAddon-Modules[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_addon_module_panel[m is defined.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m2[m) option keys: [33mdefault-Back default-Do-Nothing[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [32mOK[m ]: Menu option [32mAddon-Modules[m bind to [32maction_addon_module_panel[m successful.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mLog-Viewer[m to controller [36mLogViewer[m...
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mLog-Viewer[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mLogViewer[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mLog-Viewer[m is [32minit_menu LogViewer[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [32mOK[m ]: Menu option [32mLog-Viewer[m bind to [32mLogViewer[m successful.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mControl-Panel[m to controller [36mControlPanel[m...
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Confirmed menu controller [32mMainController[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Confirmed [36mMainController[m controller option [32mControl-Panel[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Confirmed bind target menu controller [32mControlPanel[m exists.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m controller jump key is [32mMainController-jump-Control-Panel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: [36mMainController[m options are [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Function resource for controller option [33mControl-Panel[m is [32minit_menu ControlPanel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [32mOK[m ]: Menu option [32mControl-Panel[m bind to [32mControlPanel[m successful.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [33mINFO[m ]: Binding [36mMainController[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:39 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [32mMainController[m menu controller exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mAddon-Modules Log-Viewer Control-Panel Back[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [33mMainController[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m5[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [34mDONE[m ]: [36mMainController[m controller option binding complete.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Tail[m to function [35maction_display_log_tail[m...
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Tail[m exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_tail[m is defined.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m6[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Tail[m bind to [32maction_log_view_tail[m successful.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-Head[m to function [35maction_display_log_head[m...
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-Head[m exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_head[m is defined.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m7[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-Head[m bind to [32maction_log_view_head[m successful.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mDisplay-More[m to function [35maction_display_log_more[m...
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mDisplay-More[m exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_log_view_more[m is defined.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m8[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [32mOK[m ]: Menu option [32mDisplay-More[m bind to [32maction_log_view_more[m successful.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mClear-Log[m to function [35maction_clear_log_file[m...
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mClear-Log[m exists.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_clear_log_file[m is defined.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m9[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [32mOK[m ]: Menu option [32mClear-Log[m bind to [32maction_clear_log_file[m successful.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [33mINFO[m ]: Binding [36mLogViewer[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:40 EET 2021[m - [ [35mDEBUG[m ]: [32mLogViewer[m menu controller exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mLogViewer[m, Options: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mDisplay-Tail Display-Head Display-More Clear-Log Back[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [33mLogViewer[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m10[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [34mDONE[m ]: [36mLogViewer[m controller option binding complete.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Banner[m to function [35maction_set_banner_script[m...
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Banner[m exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_banner_script[m is defined.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m11[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Banner[m bind to [32maction_set_banner_script[m successful.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-File[m to function [35maction_set_log_file[m...
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-File[m exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_file[m is defined.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m12[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-File[m bind to [32maction_set_log_file[m successful.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mSet-Log-Lines[m to function [35maction_set_log_lines[m...
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mSet-Log-Lines[m exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_set_log_lines[m is defined.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m13[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [32mOK[m ]: Menu option [32mSet-Log-Lines[m bind to [32maction_set_log_lines[m successful.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mInstall-Dependencies[m to function [35maction_install_dependencies[m...
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mInstall-Dependencies[m exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_install_dependencies[m is defined.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m14[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [32mOK[m ]: Menu option [32mInstall-Dependencies[m bind to [32maction_install_dependencies[m successful.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [33mINFO[m ]: Binding [36mControlPanel[m option [33mBack[m to function [35maction_back[m...
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m4[m) menu controllers: [33mdefault MainController LogViewer ControlPanel[m.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Valid menu controllers detected: [33mdefault MainController LogViewer ControlPanel[m
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: [32mControlPanel[m menu controller exists.
+[35mMon 15 Feb 00:30:41 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mControlPanel[m, Options: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Valid menu options detected: [33mSet-Banner Set-Log-File Set-Log-Lines Install-Dependencies Back[m
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: [33mControlPanel[m menu controller option [32mBack[m exists.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Function [32maction_back[m is defined.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m15[m) option keys: [33mdefault-Back default-Do-Nothing MainController-Back MainController-Addon-Modules LogViewer-Display-More ControlPanel-Set-Log-Lines LogViewer-Display-Tail MainController-jump-Control-Panel LogViewer-Clear-Log ControlPanel-Install-Dependencies LogViewer-Display-Head ControlPanel-Set-Log-File LogViewer-Back MainController-jump-Log-Viewer ControlPanel-Set-Banner[m.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [32mOK[m ]: Menu option [32mBack[m bind to [32maction_back[m successful.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [34mDONE[m ]: [36mControlPanel[m controller option binding complete.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [34mDONE[m ]: [34mOpDashboard[m controller setup complete.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mMon 15 Feb 00:30:42 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mMon 15 Feb 00:30:43 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:30:54 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:31:13 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mMon 15 Feb 00:31:13 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mMon 15 Feb 00:31:13 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mMon 15 Feb 00:31:13 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mMon 15 Feb 00:31:13 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mMon 15 Feb 00:31:14 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
+[35mMon 15 Feb 00:35:47 EET 2021[m - [ [35mDEBUG[m ]: Selected option is [33mAddon-Modules[m.
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Control-Panel[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Control-Panel[m detected.
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [35mDEBUG[m ]: Target string [33mMainController-jump-Log-Viewer[m matches given REGEX pattern [32m*-jump-*[m.
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [35mDEBUG[m ]: Controller jumper key [32mMainController-jump-Log-Viewer[m detected.
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [35mDEBUG[m ]: Valid jumper keys found: [33mMainController-jump-Control-Panel MainController-jump-Log-Viewer[m
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [35mDEBUG[m ]: Menu controller action [33mMainController-Addon-Modules[m triggered.
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [35mDEBUG[m ]: Action key is [33mMainController-Addon-Modules[m ([37m0[m).
+[35mMon 15 Feb 00:35:48 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:36:04 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:36:07 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:36:29 EET 2021[m - [ [34mOpDashboard[m ]: Loaded Modules
+            
+[35mMon 15 Feb 00:36:41 EET 2021[m - [ [35mDEBUG[m ]: [34mOpDashboard[m menu banner flag is [32mON[m.
+[35mMon 15 Feb 00:36:41 EET 2021[m - [ [34mOpDashboard[m ]: A.S.O.D.
+[35mMon 15 Feb 00:36:41 EET 2021[m - [ [35mDEBUG[m ]: Detected ([37m3[m) controllers with extended banners: [33mdefault MainController ControlPanel[m
+[35mMon 15 Feb 00:36:41 EET 2021[m - [ [35mDEBUG[m ]: Menu controllers with extended banners: [33mdefault MainController ControlPanel[m.
+[35mMon 15 Feb 00:36:41 EET 2021[m - [ [35mDEBUG[m ]: Menu controller [32mMainController[m has extended banner set.
+[35mMon 15 Feb 00:36:41 EET 2021[m - [ [35mDEBUG[m ]: Controller: [36mMainController[m, Options: [33mAddon-Modules Log-Viewer Control-Panel Back[m.
