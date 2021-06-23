@@ -293,37 +293,3 @@ function setup_settings_menu_option_back () {
 }
 
 # CODE DUMP
-
-#   function setup_main_menu_option_addon () {
-#       local ADDON_KEY="$1"
-#       info_msg "Binding ${CYAN}$MAIN_CONTROLLER_LABEL${RESET} option"\
-#           "${YELLOW}$ADDON_KEY${RESET}"\
-#           "to action ${CYAN}${OD_ADDONS[$ADDON_KEY]}${RESET}"
-#       bind_controller_option \
-#           "to_action" "$MAIN_CONTROLLER_LABEL" \
-#           "$ADDON_KEY" "${OD_ADDONS[$ADDON_KEY]}"
-#       return $?
-#   }
-
-#   function setup_main_menu_options_addons () {
-#       if [ ${#OD_ADDONS[@]} -eq 0 ]; then
-#           warning_msg "No modules declared as addons."
-#           return 1
-#       fi
-#       SUCCESS_COUNT=0
-#       FAILURE_COUNT=0
-#       for module in ${!OD_ADDONS[@]}; do
-#           setup_main_menu_option_addon "$module"
-#           if [ $? -ne 0 ]; then
-#               nok_msg "Failed to load module (${RED}$module${RESET})."
-#               FAILURE_COUNT=$((FAILURE_COUNT + 1))
-#           else
-#               ok_msg "Loaded module (${GREEN}$module${RESET})."
-#               SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
-#           fi
-#       done
-#       info_msg "Loaded (${GREEN}$SUCCESS_COUNT${RESET}/${WHITE}${#OD_ADDONS[@]}${RESET}) modules,"\
-#           "(${RED}$FAILURE_COUNT${RESET}) failures."
-#       return 0
-#   }
-
