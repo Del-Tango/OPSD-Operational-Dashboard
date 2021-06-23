@@ -4,6 +4,23 @@
 #
 # FORMATTERS
 
+function format_lan_scan () {
+    lan_scan | column -t > ${MD_DEFAULT['tmp-file']}
+    local COUNT=1
+    local ACTIVE_MACHINES=`fetch_file_length ${MD_DEFAULT['tmp-file']}`
+    CURRENT_ESSID=`fetch_currently_connected_gateway_essid`
+    DISPLAY_ESSID=${CURRENT_ESSID:-'Unconnected'}
+    echo "${CYAN}Active Machines On WiFi Network"\
+        "${GREEN}$DISPLAY_ESSID${CYAN}(${WHITE}$ACTIVE_MACHINES${CYAN})${RESET}"
+    echo "${CYAN}   IPV4 Address      MAC Address${RESET}"
+    while read line; do
+        echo "${WHITE}$COUNT${RESET}) ${GREEN}$line${RESET}"
+        local COUNT=$((COUNT + 1))
+    done < ${DEFAULT['tmp-file']}
+    echo -n > ${MD_DEFAULT['tmp-file']}
+    return 0
+}
+
 function format_menu_controller_jumper_function_resource () {
     local MENU_CONTROLLER_LABEL="$1"
     local FUNCTION_RESOURCE="init_menu $MENU_CONTROLLER_LABEL"
